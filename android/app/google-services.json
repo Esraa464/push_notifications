@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331521749500",
+    "project_id": "notifications-a97a2",
+    "storage_bucket": "notifications-a97a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331521749500:android:10c27f174be3baa4eec279",
+        "android_client_info": {
+          "package_name": "com.easyapproach.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331521749500-mgf3kkpvdk6gs3heaufte2if9v85rrq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKzjfaa7xDEATG-YNU4mp6LJEIevee5FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331521749500-mgf3kkpvdk6gs3heaufte2if9v85rrq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
